@@ -1,7 +1,7 @@
 # Leetcode
 
-Aim to familiar with algorithm and datastructure implement by Java and python.
 ---
+Aim to familiar with algorithm and datastructure implement by Java and python.
 
 ## Array
 
