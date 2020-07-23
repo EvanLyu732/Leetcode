@@ -50,6 +50,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.
 |---------|------------|
 |    [1. Two Sum]( https://leetcode.com/problems/two-sum/)   |    [two sum solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/TwoSum.java)|
 |   [27. Remove Element](https://leetcode.com/problems/remove-element/) | [remove element solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/RemoveElement.java  )|
+| [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[remove duplicated from sorted array solution]()|
 
 
 ### Hash Table
