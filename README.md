@@ -53,6 +53,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.
 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[remove duplicated from sorted array solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/Remove%20Duplicates%20from%20Sorted%20Array.java)|
 | [66. Plus One](https://leetcode.com/problems/plus-one/)|[plus one solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/PlusOne.java)|
 | [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[transpose matrix solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/Transposematrix.java )|
+| [1486. XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)|[xor operation solution]()|
 
 
 ### Hash Table
