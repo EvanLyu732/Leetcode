@@ -54,6 +54,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.
 | [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[transpose matrix solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/Transposematrix.java )|
 | [1486. XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)|[xor operation solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/XOR%20Operation.java)|
 | [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[two sum two solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/Two%20sum%20two.java)|
+| [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[best time to buy and sell stock solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/BestTimetoBuyandSellStock.java)|
 
 
 ### Hash Table
