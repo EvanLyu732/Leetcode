@@ -1,6 +1,5 @@
 # Leetcode
 
----
 Aim to familiar with algorithm and datastructure implement by Java and python.
 
 # Tag
