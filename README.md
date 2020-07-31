@@ -60,7 +60,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[best time to buy and sell stock solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/BestTimetoBuyandSellStock.java)|
 | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [best time to buy and sell stock II solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/BestTimetoBuyandSellStockII.java)|
 | [1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [smaller number solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/SmallerNumberSolution.java)|
-| [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[search insert position solution](https://github.com/EvanLyu732/Leetcode/tree/master/Array)|
+| [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[search insert position solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/SearchInsertPosition.java)|
 
 
 ### Hash Table
