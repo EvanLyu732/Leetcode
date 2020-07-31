@@ -62,6 +62,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.
 | [1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [smaller number solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/SmallerNumberSolution.java)|
 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[search insert position solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/SearchInsertPosition.java)|
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[move zeros solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/MoveZeroes.java)|
+| [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [merge sorted array solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/MergeSortedArray.java)|
 
 
 ### Hash Table
