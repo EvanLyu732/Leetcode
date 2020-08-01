@@ -64,6 +64,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[move zeros solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/MoveZeroes.java)|
 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [merge sorted array solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/MergeSortedArray.java)|
 | [561. Array Partition I](https://leetcode.com/problems/array-partition-i/) | [array partition I solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/ArrayPartitionI.java )|
+| [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [can place flowers solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/CanPlaceFlowers.java )|
 
 
 ### Hash Table
