@@ -63,6 +63,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.
 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[search insert position solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/SearchInsertPosition.java)|
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[move zeros solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/MoveZeroes.java)|
 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [merge sorted array solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/MergeSortedArray.java)|
+| [561. Array Partition I](https://leetcode.com/problems/array-partition-i/) | [array partition I solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/ArrayPartitionI.java )|
 
 
 ### Hash Table
