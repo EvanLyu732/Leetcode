@@ -67,6 +67,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.
 | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [can place flowers solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/CanPlaceFlowers.java )|
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/ ) | [contain duplicate solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/ContainsDuplicate.java) |
 | [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [fibonacci number solution](https://github.com/EvanLyu732/Leetcode/tree/master/Array )|
+| [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)| [find pivot index solution](https://github.com/EvanLyu732/Leetcode/tree/master/Array   ) |
 
 ### Hash Table
 
