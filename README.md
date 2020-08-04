@@ -71,6 +71,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.
 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [contain with most water solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/ContainerWithMostWater.java)|
 | [717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/)| [1-bit and 2-bit characters solution](https://github.com/EvanLyu732/Leetcode/tree/master/Array)|
 | [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [find all numbers disappeared in an array solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/FindAllNumbersDisappearedsolution.java)|
+| [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |[maximum subarray solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/MaximumSubarraySolution.java)|
 
 ### Hash Table
 
