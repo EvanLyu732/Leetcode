@@ -82,6 +82,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.
 
 | Title   | Solution   |
 |---------|------------|
+| [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [reverse linked list solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/ReverseLinkedList.java)|
 
 
 ### Math
