@@ -72,6 +72,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.
 | [717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/)| [1-bit and 2-bit characters solution](https://github.com/EvanLyu732/Leetcode/tree/master/Array)|
 | [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [find all numbers disappeared in an array solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/FindAllNumbersDisappearedsolution.java)|
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |[maximum subarray solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/MaximumSubarraySolution.java)|
+|[169. Majority Element ](https://leetcode.com/problems/majority-element/) | [majority element solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/MajorityElement.java)| 
 
 ### Hash Table
 
