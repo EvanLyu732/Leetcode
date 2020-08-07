@@ -75,6 +75,9 @@ Aim to familiar with algorithm and datastructure implement by Java and python.
 |[169. Majority Element ](https://leetcode.com/problems/majority-element/) | [majority element solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/MajorityElement.java)| 
 | [1243. Array Transformation](https://leetcode.com/problems/array-transformation/) | [array transformation solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/ArrayTransformation.java)|
 | [268. Missing Number](https://leetcode.com/problems/missing-number/) | [missing number solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/MissingNumberSolution.java)|
+| [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)| [maximum product of three numbers solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/MaximumProductofThreeNumbersSolution.java)|
+
+
 
 ### Hash Table
 
