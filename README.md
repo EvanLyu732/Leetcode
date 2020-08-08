@@ -77,7 +77,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.
 | [268. Missing Number](https://leetcode.com/problems/missing-number/) | [missing number solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/MissingNumberSolution.java)|
 | [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)| [maximum product of three numbers solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/MaximumProductofThreeNumbersSolution.java)|
 | [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [pascal' triangle solution ](https://github.com/EvanLyu732/Leetcode/tree/master/Array)|
-
+| [243. Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/) | [shortest word distance solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/ShortestWordDistanceSolution.java) |
 
 
 ### Hash Table
