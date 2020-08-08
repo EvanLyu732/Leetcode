@@ -76,6 +76,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.
 | [1243. Array Transformation](https://leetcode.com/problems/array-transformation/) | [array transformation solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/ArrayTransformation.java)|
 | [268. Missing Number](https://leetcode.com/problems/missing-number/) | [missing number solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/MissingNumberSolution.java)|
 | [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)| [maximum product of three numbers solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/MaximumProductofThreeNumbersSolution.java)|
+| [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [pascal' triangle solution ](https://github.com/EvanLyu732/Leetcode/tree/master/Array)|
 
 
 
