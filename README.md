@@ -79,6 +79,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.
 | [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [pascal' triangle solution ](https://github.com/EvanLyu732/Leetcode/tree/master/Array)|
 | [243. Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/) | [shortest word distance solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/ShortestWordDistanceSolution.java) |
 | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [median of two sorted arrays solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/MedianofTwoSortedArraysSolution.java) |
+| [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [max consecutive ones solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/MaxConsecutiveOnes.java )|
 
 
 ### Hash Table
