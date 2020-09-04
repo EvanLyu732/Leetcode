@@ -82,6 +82,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.
 | [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [max consecutive ones solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/MaxConsecutiveOnes.java )|
 | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [squares of a sorted array](https://github.com/EvanLyu732/Leetcode/blob/master/Array/SquaresofaSortedArray.java)|
 | [1089. Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [duplicated zeros solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/DuplicateZeros.java) |
+| [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)| [valid mountain array solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/ValidMountainArray.java) |
 
 
 ### Hash Table
