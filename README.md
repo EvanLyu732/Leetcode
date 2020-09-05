@@ -86,6 +86,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.
 | [1299. Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | [replace elements with greatest element on right side](https://github.com/EvanLyu732/Leetcode/blob/master/Array/ReplaceElementswithGreatestElementonRightSide.java) |
 | [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [sort array by parity solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/SortArrayByParity.java) |
 | [1051. Height Checker](https://leetcode.com/problems/height-checker/) | [height checker solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/HeightChecker.java) |
+| [487. Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/) | [max consecutive ones II solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/MaxConsecutiveOnesII.java)|
 
 
 ### Hash Table
