@@ -84,6 +84,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.
 | [1089. Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [duplicated zeros solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/DuplicateZeros.java) |
 | [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)| [valid mountain array solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/ValidMountainArray.java) |
 | [1299. Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | [replace elements with greatest element on right side](https://github.com/EvanLyu732/Leetcode/blob/master/Array/ReplaceElementswithGreatestElementonRightSide.java) |
+| [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [sort array by parity solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/SortArrayByParity.java) |
 
 
 ### Hash Table
