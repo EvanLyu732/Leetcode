@@ -20,5 +20,6 @@
    - Sliding windows
    - two pointers
    - Combined with set
+   - Duplicate elements use (Hash Set or Hash Map)
 
 ---
