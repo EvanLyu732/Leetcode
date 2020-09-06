@@ -89,6 +89,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.
 | [487. Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/) | [max consecutive ones II solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/MaxConsecutiveOnesII.java)|
 
 
+
 ### Hash Table
 
 | Title   | Solution   |
@@ -100,7 +101,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.
 |---------|------------|
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [reverse linked list solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/ReverseLinkedList.java)|
 | [707. Design Linked List](https://leetcode.com/problems/design-linked-list/) | [design linked list solution](https://github.com/EvanLyu732/Leetcode/blob/master/LinkedList/DesignLinkedList.java) |
-
+| [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [linkedlist cycle solution](https://github.com/EvanLyu732/Leetcode/blob/master/LinkedList/LinkedListCycle.java) |
 
 ### Math
 
