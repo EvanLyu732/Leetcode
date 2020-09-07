@@ -104,6 +104,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.
 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [linkedlist cycle solution](https://github.com/EvanLyu732/Leetcode/blob/master/LinkedList/LinkedListCycle.java) |
 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [linke list cycle II solution](https://github.com/EvanLyu732/Leetcode/blob/master/LinkedList/LinkedListCycleII.java) |
 | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Intersection of two linked list solution](https://github.com/EvanLyu732/Leetcode/blob/master/LinkedList/IntersectionofTwoLinkedLists.java) |
+| [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [remove Nth node from end of list solution](https://github.com/EvanLyu732/Leetcode/blob/master/LinkedList/RemoveNthNodeFromEndofList.java) |
 
 ### Math
 
