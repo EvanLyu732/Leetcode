@@ -15,3 +15,10 @@
 
 
 3. Delete
+
+
+
+4. Techniques
+      - Dummy Head
+      - Two Pointers
+      
