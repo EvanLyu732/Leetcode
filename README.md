@@ -88,7 +88,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.
 | [1051. Height Checker](https://leetcode.com/problems/height-checker/) | [height checker solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/HeightChecker.java) |
 | [487. Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/) | [max consecutive ones II solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/MaxConsecutiveOnesII.java)|
 | [1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [check if N and its double exist solution](https://github.com/EvanLyu732/Leetcode/blob/master/LinkedList/CheckIfNandItsDoubleExistSolution.java) |
-
+| [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [third maximum numebr solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/ThirdMaximumNumberSolution.java) |
 
 
 ### Hash Table
@@ -111,6 +111,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.
 | [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [odd even linked list solution](https://github.com/EvanLyu732/Leetcode/blob/master/LinkedList/OddEvenLinkedListSolution.java) |
 | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)| [palindrome linked list solution](https://github.com/EvanLyu732/Leetcode/blob/master/LinkedList/PalindromeLinkedListSolution.java) |
 | [21. Merge Two Sorted Lists]( https://leetcode.com/problems/merge-two-sorted-lists/) | [merge two sorted lists solution](https://github.com/EvanLyu732/Leetcode/blob/master/LinkedList/MergeTwoSortedListsSolution.java) |
+
 
 ### Math
 
