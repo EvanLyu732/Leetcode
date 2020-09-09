@@ -112,6 +112,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.
 | [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [odd even linked list solution](https://github.com/EvanLyu732/Leetcode/blob/master/LinkedList/OddEvenLinkedListSolution.java) |
 | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)| [palindrome linked list solution](https://github.com/EvanLyu732/Leetcode/blob/master/LinkedList/PalindromeLinkedListSolution.java) |
 | [21. Merge Two Sorted Lists]( https://leetcode.com/problems/merge-two-sorted-lists/) | [merge two sorted lists solution](https://github.com/EvanLyu732/Leetcode/blob/master/LinkedList/MergeTwoSortedListsSolution.java) |
+| [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [add two number solution](https://github.com/EvanLyu732/Leetcode/blob/master/LinkedList/AddTwoNumbersSolution.java) |
 
 
 ### Math
