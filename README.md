@@ -87,6 +87,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.
 | [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [sort array by parity solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/SortArrayByParity.java) |
 | [1051. Height Checker](https://leetcode.com/problems/height-checker/) | [height checker solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/HeightChecker.java) |
 | [487. Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/) | [max consecutive ones II solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/MaxConsecutiveOnesII.java)|
+| [1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [check if N and its double exist solution](https://github.com/EvanLyu732/Leetcode/blob/master/LinkedList/CheckIfNandItsDoubleExistSolution.java) |
 
 
 
