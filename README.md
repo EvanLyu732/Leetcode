@@ -102,6 +102,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.
 |---------|------------|
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [reverse linked list solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/ReverseLinkedList.java)|
 | [707. Design Linked List](https://leetcode.com/problems/design-linked-list/) | [design linked list solution](https://github.com/EvanLyu732/Leetcode/blob/master/LinkedList/DesignLinkedList.java) |
+| [707. Design Double Linked List](https://leetcode.com/problems/design-linked-list/) | [design double linked list solution](https://github.com/EvanLyu732/Leetcode/tree/master/LinkedList) |
 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [linkedlist cycle solution](https://github.com/EvanLyu732/Leetcode/blob/master/LinkedList/LinkedListCycle.java) |
 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [linke list cycle II solution](https://github.com/EvanLyu732/Leetcode/blob/master/LinkedList/LinkedListCycleII.java) |
 | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Intersection of two linked list solution](https://github.com/EvanLyu732/Leetcode/blob/master/LinkedList/IntersectionofTwoLinkedLists.java) |
