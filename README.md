@@ -116,6 +116,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.
 | [430. Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | [flatten a multilevel doubly linked list solution](https://github.com/EvanLyu732/Leetcode/blob/master/LinkedList/FlattenaMultilevelDoublyLinkedList.java) |
 | [708. Insert into a Sorted Circular Linked List](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/) | [insert into a sorted circular linked list solution](https://github.com/EvanLyu732/Leetcode/blob/master/LinkedList/InsertintoaSortedCircularLinkedList.java) |
 | [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/ )| [copy list with random pointer solution](https://github.com/EvanLyu732/Leetcode/blob/master/LinkedList/CopyListwithRandomPointer.java) |
+| [61. Rotate List](https://leetcode.com/problems/rotate-list/) |[rotate list solution](https://github.com/EvanLyu732/Leetcode/blob/master/LinkedList/RotateList.java) |
 
 
 ### Math
