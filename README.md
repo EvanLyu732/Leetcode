@@ -76,7 +76,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.
 | [1243. Array Transformation](https://leetcode.com/problems/array-transformation/) | [array transformation solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/ArrayTransformation.java)|
 | [268. Missing Number](https://leetcode.com/problems/missing-number/) | [missing number solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/MissingNumberSolution.java)|
 | [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)| [maximum product of three numbers solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/MaximumProductofThreeNumbersSolution.java)|
-| [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [pascal' triangle solution ](https://github.com/EvanLyu732/Leetcode/tree/master/Array)|
+| [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [pascal' triangle solution ](https://github.com/EvanLyu732/Leetcode/blob/master/Array/PascalsTriangleSolution.java)|
 | [243. Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/) | [shortest word distance solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/ShortestWordDistanceSolution.java) |
 | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [median of two sorted arrays solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/MedianofTwoSortedArraysSolution.java) |
 | [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [max consecutive ones solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/MaxConsecutiveOnes.java )|
@@ -102,7 +102,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.
 |---------|------------|
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [reverse linked list solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/ReverseLinkedList.java)|
 | [707. Design Linked List](https://leetcode.com/problems/design-linked-list/) | [design linked list solution](https://github.com/EvanLyu732/Leetcode/blob/master/LinkedList/DesignLinkedList.java) |
-| [707. Design Double Linked List](https://leetcode.com/problems/design-linked-list/) | [design double linked list solution](https://github.com/EvanLyu732/Leetcode/tree/master/LinkedList) |
+| [707. Design Double Linked List](https://leetcode.com/problems/design-linked-list/) | [design double linked list solution](https://github.com/EvanLyu732/Leetcode/blob/master/LinkedList/DesignDoubleLinkedList.java) |
 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [linkedlist cycle solution](https://github.com/EvanLyu732/Leetcode/blob/master/LinkedList/LinkedListCycle.java) |
 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [linke list cycle II solution](https://github.com/EvanLyu732/Leetcode/blob/master/LinkedList/LinkedListCycleII.java) |
 | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Intersection of two linked list solution](https://github.com/EvanLyu732/Leetcode/blob/master/LinkedList/IntersectionofTwoLinkedLists.java) |
