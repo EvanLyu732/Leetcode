@@ -193,6 +193,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.
 | [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [binary tree postorder traversal solution](https://github.com/EvanLyu732/Leetcode/blob/master/BinaryTree/BinaryTreePostorderTraversal.java )|
 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [binary tree level order traversal solution](https://github.com/EvanLyu732/Leetcode/blob/master/BinaryTree/BinaryTreeLevelOrderTraversal) |
 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [maximum depth of binary tree solution](https://github.com/EvanLyu732/Leetcode/blob/master/BinaryTree/MaximumDepthofBinaryTree.java) |
+| [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [symmetric tree solution](https://github.com/EvanLyu732/Leetcode/blob/master/BinaryTree/SymmetricTree.java) |
 
 ### Breadth First Search
 
