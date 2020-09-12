@@ -186,8 +186,10 @@ Aim to familiar with algorithm and datastructure implement by Java and python.
 
 ### Tree
 
-| Title   | Solution   |
-|---------|------------|
+| Title                 | Solution   |
+|-----------------------|----------------------------|
+|  [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)  | [binary tree preorder traversal solution](https://github.com/EvanLyu732/Leetcode/blob/master/BinaryTree/BinaryTreePreorderTraversal.java)      |
+
 
 ### Breadth First Search
 
