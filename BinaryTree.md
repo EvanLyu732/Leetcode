@@ -1,6 +1,6 @@
 # BinaryTree
 
-1.Traverse tree
+1.Traverse tree  - Preorder , Inorder , Postorder
 
 + BFS
 + DFS
