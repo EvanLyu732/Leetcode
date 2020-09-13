@@ -2,7 +2,7 @@
 
 ![leetcode](https://res.cloudinary.com/practicaldev/image/fetch/s--tkfEE0iu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/k930rge0nlatlkrsebzn.png)
 
-Aim to familiar with algorithm and datastructure implement by Java and python.
+Aim to familiar with algorithm and datastructure implement by Java and python.  :) You only lose if you give up.
 
 ---
 # Tag
