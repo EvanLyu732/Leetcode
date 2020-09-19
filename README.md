@@ -95,6 +95,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.  
 
 | Title   | Solution   |
 |---------|------------|
+| [705. Design HashSet](https://leetcode.com/problems/design-hashset/)    | [design hashset solution](https://github.com/EvanLyu732/Leetcode/blob/master/HashTable/DesignHashSet.java)      |
 
 ### Linked List
 
