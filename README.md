@@ -98,6 +98,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.  
 | [705. Design HashSet](https://leetcode.com/problems/design-hashset/)    | [design hashset solution](https://github.com/EvanLyu732/Leetcode/blob/master/HashTable/DesignHashSet.java)      |
 | [706. Design HashMap](https://leetcode.com/problems/design-hashmap/) | [design hashmap solution](https://github.com/EvanLyu732/Leetcode/blob/master/HashTable/DesignHashTable.java) |
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)   | [contain duplicate solution](https://github.com/EvanLyu732/Leetcode/blob/master/HashTable/ContainsDuplicate.java) |
+| [136. Single Number](https://leetcode.com/problems/single-number/) | [single number solution](https://github.com/EvanLyu732/Leetcode/blob/master/HashTable/SingleNumber.java) |
 
 ### Linked List
 
