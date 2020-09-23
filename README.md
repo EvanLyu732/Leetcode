@@ -101,6 +101,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.  
 | [136. Single Number](https://leetcode.com/problems/single-number/) | [single number solution](https://github.com/EvanLyu732/Leetcode/blob/master/HashTable/SingleNumber.java) |
 | [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)             | [intersection of two array solution](https://github.com/EvanLyu732/Leetcode/blob/master/HashTable/IntersectionofTwoArrays.java)    |
 | [202. Happy Number](https://leetcode.com/problems/happy-number/) | [happy number solution](https://github.com/EvanLyu732/Leetcode/blob/master/HashTable/HappyNumber.java) |
+| [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)            | [isomorphic strings solution](https://github.com/EvanLyu732/Leetcode/blob/master/HashTable/IsomorphicStrings.java)     |
 
 ### Linked List
 
