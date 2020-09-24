@@ -103,6 +103,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.  
 | [202. Happy Number](https://leetcode.com/problems/happy-number/) | [happy number solution](https://github.com/EvanLyu732/Leetcode/blob/master/HashTable/HappyNumber.java) |
 | [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)            | [isomorphic strings solution](https://github.com/EvanLyu732/Leetcode/blob/master/HashTable/IsomorphicStrings.java)     |
 | [599. Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | [minimum index sum of two lists solution](https://github.com/EvanLyu732/Leetcode/blob/master/HashTable/MinimumIndexSumofTwoLists.java) |
+| [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)   | [first unique character in a string solution](https://github.com/EvanLyu732/Leetcode/blob/master/HashTable/FirstUniqueCharacterinaString.java) |
 
 ### Linked List
 
