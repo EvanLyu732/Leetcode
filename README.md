@@ -106,6 +106,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.  
 | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)   | [first unique character in a string solution](https://github.com/EvanLyu732/Leetcode/blob/master/HashTable/FirstUniqueCharacterinaString.java) |
 | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [intersection of two arrays II solution](https://github.com/EvanLyu732/Leetcode/blob/master/HashTable/IntersectionofTwoArraysII.java) |
 | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [contains duplicate II solution](https://github.com/EvanLyu732/Leetcode/blob/master/HashTable/ContainsDuplicateII.java) |
+| [359. Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) | [logger rate limiter solution](https://github.com/EvanLyu732/Leetcode/blob/master/HashTable/LoggerRateLimiter.java) |
 
 ### Linked List
 
