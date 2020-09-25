@@ -107,6 +107,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.  
 | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [intersection of two arrays II solution](https://github.com/EvanLyu732/Leetcode/blob/master/HashTable/IntersectionofTwoArraysII.java) |
 | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [contains duplicate II solution](https://github.com/EvanLyu732/Leetcode/blob/master/HashTable/ContainsDuplicateII.java) |
 | [359. Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) | [logger rate limiter solution](https://github.com/EvanLyu732/Leetcode/blob/master/HashTable/LoggerRateLimiter.java) |
+| [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [group anagrams solution](https://github.com/EvanLyu732/Leetcode/blob/master/HashTable/GroupAnagrams.java) |
 
 ### Linked List
 
