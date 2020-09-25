@@ -108,6 +108,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.  
 | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [contains duplicate II solution](https://github.com/EvanLyu732/Leetcode/blob/master/HashTable/ContainsDuplicateII.java) |
 | [359. Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) | [logger rate limiter solution](https://github.com/EvanLyu732/Leetcode/blob/master/HashTable/LoggerRateLimiter.java) |
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [group anagrams solution](https://github.com/EvanLyu732/Leetcode/blob/master/HashTable/GroupAnagrams.java) |
+| [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [valid sudoku solution](https://github.com/EvanLyu732/Leetcode/blob/master/HashTable/ValidSudoku.java) |
 
 ### Linked List
 
