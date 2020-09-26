@@ -109,6 +109,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.  
 | [359. Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) | [logger rate limiter solution](https://github.com/EvanLyu732/Leetcode/blob/master/HashTable/LoggerRateLimiter.java) |
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [group anagrams solution](https://github.com/EvanLyu732/Leetcode/blob/master/HashTable/GroupAnagrams.java) |
 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [valid sudoku solution](https://github.com/EvanLyu732/Leetcode/blob/master/HashTable/ValidSudoku.java) |
+| [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [jewels and stones solution](https://github.com/EvanLyu732/Leetcode/blob/master/HashTable/JewelsandStones.java) |
 
 ### Linked List
 
