@@ -111,6 +111,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.  
 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [valid sudoku solution](https://github.com/EvanLyu732/Leetcode/blob/master/HashTable/ValidSudoku.java) |
 | [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [jewels and stones solution](https://github.com/EvanLyu732/Leetcode/blob/master/HashTable/JewelsandStones.java) |
 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [longest substring without repeating characters solution](https://github.com/EvanLyu732/Leetcode/blob/master/HashTable/LongestSubstringWithoutRepeatingCharacters.java) |
+| [454. 4Sum II](https://leetcode.com/problems/4sum-ii/) | [4sum II solution](https://github.com/EvanLyu732/Leetcode/blob/master/HashTable/4SumII.java) |
 
 ### Linked List
 
