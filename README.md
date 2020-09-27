@@ -133,6 +133,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.  
 | [708. Insert into a Sorted Circular Linked List](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/) | [insert into a sorted circular linked list solution](https://github.com/EvanLyu732/Leetcode/blob/master/LinkedList/InsertintoaSortedCircularLinkedList.java) |
 | [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/ )| [copy list with random pointer solution](https://github.com/EvanLyu732/Leetcode/blob/master/LinkedList/CopyListwithRandomPointer.java) |
 | [61. Rotate List](https://leetcode.com/problems/rotate-list/) |[rotate list solution](https://github.com/EvanLyu732/Leetcode/blob/master/LinkedList/RotateList.java) |
+| [170. Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/) | [two sum III - data structure design solution](https://github.com/EvanLyu732/Leetcode/blob/master/HashTable/TwoSumIIIDatastructuredesign.java) |
 
 
 ### Math
