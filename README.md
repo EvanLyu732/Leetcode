@@ -110,6 +110,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.  
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [group anagrams solution](https://github.com/EvanLyu732/Leetcode/blob/master/HashTable/GroupAnagrams.java) |
 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [valid sudoku solution](https://github.com/EvanLyu732/Leetcode/blob/master/HashTable/ValidSudoku.java) |
 | [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [jewels and stones solution](https://github.com/EvanLyu732/Leetcode/blob/master/HashTable/JewelsandStones.java) |
+| [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [longest substring without repeating characters solution](https://github.com/EvanLyu732/Leetcode/blob/master/HashTable/LongestSubstringWithoutRepeatingCharacters.java) |
 
 ### Linked List
 
