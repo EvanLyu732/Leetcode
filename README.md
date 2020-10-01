@@ -159,6 +159,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.  
 
 | Title   | Solution   |
 |---------|------------|
+| [704. Binary Search](https://leetcode.com/problems/binary-search/)    | [binary search solution](https://github.com/EvanLyu732/Leetcode/blob/master/BinarySearch/BinarySearch.java)       |
 
 
 ### Divide and Conquer
