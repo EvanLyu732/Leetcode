@@ -165,6 +165,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.  
 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [search in rotated sorted array solution](https://github.com/EvanLyu732/Leetcode/blob/master/BinarySearch/SearchinRotatedSortedArray.java) |
 | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/)      | [find bad version solution](https://github.com/EvanLyu732/Leetcode/blob/master/BinarySearch/FindBadVersion.java) |
 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/)  | [find peak element solution](https://github.com/EvanLyu732/Leetcode/blob/master/BinarySearch/FindPeakElement.java) |
+| [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [find minimum in rotated sorted array solution](https://github.com/EvanLyu732/Leetcode/blob/master/BinarySearch/FindMinimuminRotatedSortedArray.java) |
 
 
 ### Divide and Conquer
