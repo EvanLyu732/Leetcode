@@ -161,6 +161,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.  
 |---------|------------|
 | [704. Binary Search](https://leetcode.com/problems/binary-search/)    | [binary search solution](https://github.com/EvanLyu732/Leetcode/blob/master/BinarySearch/BinarySearch.java)       |
 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Sqrt(x) solution](https://github.com/EvanLyu732/Leetcode/blob/master/BinarySearch/Sqrt(x).java) |
+| [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [guess number higher or lower solution](https://github.com/EvanLyu732/Leetcode/blob/master/BinarySearch/GuessNumberHigherorLower.java) |
 
 
 ### Divide and Conquer
