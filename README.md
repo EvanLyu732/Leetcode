@@ -168,6 +168,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.  
 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/)  | [find peak element solution](https://github.com/EvanLyu732/Leetcode/blob/master/BinarySearch/FindPeakElement.java) |
 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [find minimum in rotated sorted array solution](https://github.com/EvanLyu732/Leetcode/blob/master/BinarySearch/FindMinimuminRotatedSortedArray.java) |
 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [find first and last position of element in sorted array solution](https://github.com/EvanLyu732/Leetcode/blob/master/BinarySearch/FindFirstandLastPositionofElementinSortedArray.java) |
+| [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [valid perfect square solution](https://github.com/EvanLyu732/Leetcode/blob/master/BinarySearch/ValidPerfectSquare.java) |
 
 
 ### Divide and Conquer
