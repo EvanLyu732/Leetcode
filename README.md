@@ -270,6 +270,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.  
 
 | Title   | Solution   |
 |---------|------------|
+| [344. Reverse String](https://leetcode.com/problems/reverse-string/)    | [reverse string solution](https://github.com/EvanLyu732/Leetcode/blob/master/Recursion/ReverseString.java)       |
 
 ### Brainteaser
 
