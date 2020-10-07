@@ -227,6 +227,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.  
 | [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [binary tree level order traversal II solution ](https://github.com/EvanLyu732/Leetcode/blob/master/BinaryTree/BinaryTreeLevelOrderTraversalII.java) |
 | [250. Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/) | [count univalue subtrees solution](https://github.com/EvanLyu732/Leetcode/blob/master/BinaryTree/CountUnivaluesubtrees.java )|
 | [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [count binary tree from inorder and postirder traversal solution](https://github.com/EvanLyu732/Leetcode/blob/master/BinaryTree/ConstructBinaryTreefromInorderandPostorderTraversal.java )|
+| [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)  | [insert into a binary search tree solution](https://github.com/EvanLyu732/Leetcode/blob/master/BinaryTree/InsertintoaBinarySearchTree.java) |
 
 
 ### Breadth First Search
