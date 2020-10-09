@@ -230,6 +230,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.  
 | [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [count binary tree from inorder and postirder traversal solution](https://github.com/EvanLyu732/Leetcode/blob/master/BinaryTree/ConstructBinaryTreefromInorderandPostorderTraversal.java )|
 | [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)  | [insert into a binary search tree solution](https://github.com/EvanLyu732/Leetcode/blob/master/BinaryTree/InsertintoaBinarySearchTree.java) |
 | [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)  | [construct binary tree from preorder and inorder traversal solution](https://github.com/EvanLyu732/Leetcode/blob/master/BinaryTree/ConstructBinaryTreefromPreorderandInorderTraversal.java) |
+| [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)  | [populating next right pointers in each node solution](https://github.com/EvanLyu732/Leetcode/blob/master/BinaryTree/PopulatingNextRightPointersinEachNode.java) |
 
 
 ### Breadth First Search
