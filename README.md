@@ -231,6 +231,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.  
 | [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)  | [insert into a binary search tree solution](https://github.com/EvanLyu732/Leetcode/blob/master/BinaryTree/InsertintoaBinarySearchTree.java) |
 | [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)  | [construct binary tree from preorder and inorder traversal solution](https://github.com/EvanLyu732/Leetcode/blob/master/BinaryTree/ConstructBinaryTreefromPreorderandInorderTraversal.java) |
 | [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)  | [populating next right pointers in each node solution](https://github.com/EvanLyu732/Leetcode/blob/master/BinaryTree/PopulatingNextRightPointersinEachNode.java) |
+| [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [lowestcommonancestor of a binary tree](https://github.com/EvanLyu732/Leetcode/blob/master/BinaryTree/LowestCommonAncestorofABinaryTree.java) |
 
 
 ### Breadth First Search
