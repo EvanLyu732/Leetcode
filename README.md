@@ -172,6 +172,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.  
 | [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [valid perfect square solution](https://github.com/EvanLyu732/Leetcode/blob/master/BinarySearch/ValidPerfectSquare.java) |
 | [270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/) | [closest binary search tree value solution](https://github.com/EvanLyu732/Leetcode/blob/master/BinarySearch/ClosestBinarySearchTreeValue.java) |
 | [702. Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/) | [search in a sorted array of unknown size solution](https://github.com/EvanLyu732/Leetcode/blob/master/BinarySearch/SearchinaSortedArrayofUnknownSize.java) |
+| [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)        | [find smallest letter greater than target solution](https://github.com/EvanLyu732/Leetcode/blob/master/BinarySearch/FindSmallestLetterGreaterThanTarget.java) |
 
 ### Divide and Conquer
 
