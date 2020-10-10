@@ -171,6 +171,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.  
 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [find first and last position of element in sorted array solution](https://github.com/EvanLyu732/Leetcode/blob/master/BinarySearch/FindFirstandLastPositionofElementinSortedArray.java) |
 | [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [valid perfect square solution](https://github.com/EvanLyu732/Leetcode/blob/master/BinarySearch/ValidPerfectSquare.java) |
 | [270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/) | [closest binary search tree value solution](https://github.com/EvanLyu732/Leetcode/blob/master/BinarySearch/ClosestBinarySearchTreeValue.java) |
+| [702. Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/) | [search in a sorted array of unknown size solution](https://github.com/EvanLyu732/Leetcode/blob/master/BinarySearch/SearchinaSortedArrayofUnknownSize.java) |
 
 ### Divide and Conquer
 
