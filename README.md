@@ -173,8 +173,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.  
 | [270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/) | [closest binary search tree value solution](https://github.com/EvanLyu732/Leetcode/blob/master/BinarySearch/ClosestBinarySearchTreeValue.java) |
 | [702. Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/) | [search in a sorted array of unknown size solution](https://github.com/EvanLyu732/Leetcode/blob/master/BinarySearch/SearchinaSortedArrayofUnknownSize.java) |
 | [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)        | [find smallest letter greater than target solution](https://github.com/EvanLyu732/Leetcode/blob/master/BinarySearch/FindSmallestLetterGreaterThanTarget.java) |
-| [167. Two Sum II - Input array is sorted
-](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [two sum II-input array is sorted solution](https://github.com/EvanLyu732/Leetcode/blob/master/BinarySearch/TwoSumII-Inputarrayissorted.java) |
+| [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [two sum II-input array is sorted solution](https://github.com/EvanLyu732/Leetcode/blob/master/BinarySearch/TwoSumII-Inputarrayissorted.java) |
 
 ### Divide and Conquer
 
