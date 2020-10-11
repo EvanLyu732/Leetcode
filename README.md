@@ -280,6 +280,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.  
 |---------|------------|
 | [344. Reverse String](https://leetcode.com/problems/reverse-string/)    | [reverse string solution](https://github.com/EvanLyu732/Leetcode/blob/master/Recursion/ReverseString.java)       |
 | [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [search in a binary tree solution](https://github.com/EvanLyu732/Leetcode/blob/master/Recursion/SearchinaBinarySearchTree.java) |
+| [912. Sort an Array](https://leetcode.com/problems/sort-an-array/) | [sort an array solution](https://github.com/EvanLyu732/Leetcode/blob/master/Recursion/SortanArray.java) | 
 
 ### Brainteaser
 
