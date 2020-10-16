@@ -90,6 +90,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.  
 | [1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [check if N and its double exist solution](https://github.com/EvanLyu732/Leetcode/blob/master/LinkedList/CheckIfNandItsDoubleExistSolution.java) |
 | [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [third maximum numebr solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/ThirdMaximumNumberSolution.java) |
 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [kth largest element in an array solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/KthLargestElementinanArray.java) |
+| [15. 3Sum](https://leetcode-cn.com/problems/3sum/solution/san-shu-zhi-he-by-leetcode-solution/) | [three sum solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/ThreeSum.java) |
 
 
 ### Hash Table
