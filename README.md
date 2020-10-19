@@ -91,6 +91,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.  
 | [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [third maximum numebr solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/ThirdMaximumNumberSolution.java) |
 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [kth largest element in an array solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/KthLargestElementinanArray.java) |
 | [15. 3Sum](https://leetcode-cn.com/problems/3sum/solution/san-shu-zhi-he-by-leetcode-solution/) | [three sum solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/ThreeSum.java) |
+| [189. Rotate Array](https://leetcode.com/problems/rotate-array/)  | [rotate array solution](https://github.com/EvanLyu732/Leetcode/blob/master/Array/RotateArray.java) |
 
 
 ### Hash Table
