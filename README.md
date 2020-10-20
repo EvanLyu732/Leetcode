@@ -198,6 +198,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.  
 
 | Title   | Solution   |
 |---------|------------|
+| [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)   | [valid parentheses solution](https://github.com/EvanLyu732/Leetcode/blob/master/Stack/ValidParentheses.java)       |
 
 ### Heap
 
