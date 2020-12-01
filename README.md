@@ -116,6 +116,7 @@ Aim to familiar with algorithm and datastructure implement by Java and python.  
 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [longest substring without repeating characters solution](https://github.com/EvanLyu732/Leetcode/blob/master/HashTable/LongestSubstringWithoutRepeatingCharacters.java) |
 | [454. 4Sum II](https://leetcode.com/problems/4sum-ii/) | [4sum II solution](https://github.com/EvanLyu732/Leetcode/blob/master/HashTable/4SumII.java) |
 | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [find the duplicate number solution](https://github.com/EvanLyu732/Leetcode/blob/master/HashTable/FindtheDuplicateNumber.java) |
+| [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [valid anagram solution](https://github.com/EvanLyu732/Leetcode/blob/master/HashTable/ValidAnagram.java) |
 
 ### Linked List
 
